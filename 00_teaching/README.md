@@ -36,19 +36,22 @@
 9. [03_0_從老師_repo_建立自己的_repo_並持續同步上游.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_0_從老師_repo_建立自己的_repo_並持續同步上游.md:1)
    用來教學生如何從老師的教學 repo 建立自己的長期開發基線，並保留同步上游更新的能力。
 
-10. [03*1_Drizzle+Neon*註冊與升級實作步驟清單.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_1_Drizzle+Neon_註冊與升級實作步驟清單.md:1)
+10. [03_0_1_老師版_repo_保護原則.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_0_1_老師版_repo_保護原則.md:1)
+    用來補充老師端應如何保護教學主 repo，避免學生誤 push、共用憑證或直接污染主線。
+
+11. [03*1_Drizzle+Neon*註冊與升級實作步驟清單.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_1_Drizzle+Neon_註冊與升級實作步驟清單.md:1)
    正式進入 V8 的資料庫升級實作。
 
-11. [03*2_V8*合併主線與*Render*最小部署*CI_CD*教案手冊.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_2_V8_合併主線與_Render_最小部署_CI_CD_教案手冊.md:1)
+12. [03*2_V8*合併主線與*Render*最小部署*CI_CD*教案手冊.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_2_V8_合併主線與_Render_最小部署_CI_CD_教案手冊.md:1)
     在 V8 完成後，補講「相對 V7 多了哪些部署調整」，並建立 V8 的主線治理與 CI/CD。
 
-12. [03*3_GitHub_PR*模板與審查清單.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_3_GitHub_PR_模板與審查清單.md:1)
+13. [03*3_GitHub_PR*模板與審查清單.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_3_GitHub_PR_模板與審查清單.md:1)
     提供課堂可直接套用的 PR 描述格式與審查流程。
 
-13. [03*4_V8*合併與部署\_課堂評分Rubric.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_4_V8_合併與部署_課堂評分Rubric.md:1)
+14. [03*4_V8*合併與部署\_課堂評分Rubric.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/03_4_V8_合併與部署_課堂評分Rubric.md:1)
     提供助教評分標準，讓流程能力與 V8 的部署調整結果都可量化評估。
 
-14. [04_Elysia + Better Auth + Google provider 實作步驟清單.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/04_Elysia + Better Auth + Google provider 實作步驟清單.md:1)
+15. [04_Elysia + Better Auth + Google provider 實作步驟清單.md](/root/00_nsPrj/01_backEnd/06_elysia/00_demo01/00_teaching/04_Elysia + Better Auth + Google provider 實作步驟清單.md:1)
     當 V8 完成後，再進入 V9 的 auth 升級；完成後也應再補一次本版部署調整。
 
 ---
